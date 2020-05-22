@@ -1,4 +1,4 @@
-TAG=python37-sam
+TAG=3.7-sam
 NAME=decibel/serverless-deploy
 
 default: build
