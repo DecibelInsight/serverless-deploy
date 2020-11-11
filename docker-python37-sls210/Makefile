@@ -1,5 +1,5 @@
-VERSION=3.7
-NAME=decibel/serverless210-deploy
+VERSION=3.7-sls-2.1.0
+NAME=decibel/serverless-deploy
 
 default: build
 
