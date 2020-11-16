@@ -1,4 +1,4 @@
-VERSION=3.7-sls-1.80.0
+VERSION=3.7
 NAME=decibel/serverless-deploy
 
 default: build
