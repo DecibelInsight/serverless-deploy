@@ -6,4 +6,4 @@ RUN apk add py3-pip
 RUN pip3 install pipenv
 RUN apk add --upgrade npm
 RUN npm config set prefix /usr/local
-RUN npm install -g serverless
+RUN npm install -g serverless@1.80.0
